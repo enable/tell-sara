@@ -1,0 +1,10 @@
+{
+    "name": "goramandvincent/tell-sara",
+    "require": {
+        "slim/slim": "@stable",
+        "guzzlehttp/guzzle": "@stable",
+        "stichoza/google-translate-php": "@stable",
+        "doctrine/cache": "@stable",
+        "monolog/monolog": "@stable"
+    }
+}
